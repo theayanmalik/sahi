@@ -155,7 +155,7 @@ h2 {
 /* Header */
 header {
   background-color: #f4f4f4;
-  padding-top :2px;
+  padding-top :15px;
   text-align: center;
 }
 
@@ -173,7 +173,7 @@ nav ul {
 }
 
 nav li {
-  margin: 0 15px;
+  margin: 0 40px;
 }
 
 nav a {
