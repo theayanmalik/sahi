@@ -70,3 +70,4 @@ lightbox.addEventListener("click", () => {
 lightboxImage.addEventListener("click", e => {
     e.stopPropagation();
 });
+audioElement.play();
