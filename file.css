@@ -80,7 +80,10 @@ h1
 
 /* Hero Section */
 
+*{
 
+  font-family: 'Georgia';
+}
 #hero {
     background-image: url('hero-bg.jpg'); /* Replace with actual image  */
   background-size: cover;
