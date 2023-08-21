@@ -131,7 +131,7 @@ body {
   font-family: Arial, sans-serif;
   font-size: 16px;
   line-height: 1.5;
-  color: #333;
+  color: #000000;
   background-color: #0b0d43e8;
 }
 
@@ -166,7 +166,7 @@ header {
 
 /* Navigation */
 nav {
-  background-color: #333;
+  background-color: #3a0a48;
   color: #fff;
 }
 
@@ -233,7 +233,7 @@ nav a:hover {
 
 /* Contact Section */
 .contact {
-  background-color: #333;
+  background-color: #3a0a48;
   color: #fff;
   padding: 100px 0;
   text-align: center;
@@ -250,7 +250,7 @@ nav a:hover {
 
 /* Footer */
 footer {
-  background-color: #222;
+  background-color: #0c0c22fe;
   color: #fff;
   text-align: center;
   padding: 20px 0;
@@ -258,7 +258,7 @@ footer {
 #GG
 {
  color: #f4f4f4;
-  background-color: #1b1d04e8;
+  background-color: #3a0a48;
 }
 
 /* Media Queries */
